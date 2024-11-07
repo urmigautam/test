@@ -1,0 +1,7 @@
+.header-section{
+    display: flex;
+    justify-content: space-between;
+    /* justify-content: space-around; */
+    background: rgb(237, 234, 234);
+    padding:10px;
+   }
